@@ -5,8 +5,8 @@ The objective was to design and implement a face detector in Python and OpenCV t
 
 
 # Author
-* Mayur Ashok Patil (Developer)
-* Divya Nitin Gohel (Tester)
+* Mayur Ashok Patil
+* Divya Nitin Gohel
 
 # Organization
 * JSPM's Rajarshi Shahu College of Engineering, Tathawade, Pune-Maharashtra ,India (Savitribai Phule Pune University Pune)
